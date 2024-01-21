@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-text {
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: bold;
+}
